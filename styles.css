@@ -1,0 +1,131 @@
+body{
+  margin: 0px;
+  font-family: 'Merriweather', serif;
+  text-align: center; /*it centers everything inside it*/
+  background-color: #e6f9ff;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 5.32rem;
+  line-height: 1;
+  margin: 50px auto 0 auto;
+  width: 15%;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 5px 0;
+}
+
+.top_container{
+
+  background-color: #e6f9ff;
+  margin: 0 10px 10px 10px;
+  padding: 20px;
+  position: relative;
+
+}
+
+.code_photo{
+  width: 25%;
+}
+
+.middle_container{
+}
+
+.bottom_container{
+  margin: auto;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 13%;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 13%;
+}
+
+.propic{
+  border-style: dotted 0;
+  border-radius: 100px;
+}
+
+a:hover{
+  color: #123456;
+  font-size: 5%;
+}
+
+a{
+  color: #11999e;
+}
+
+a:link{
+  text-decoration: none;
+  color: #11788D;
+}
+
+.skill-row{
+  text-align: left;
+  line-height: 2;
+  margin: auto;
+  width: 50%;
+}
+
+.python{
+  margin: 0px 0px 50px 0px;
+  /* position: absolute;
+  left: 7%; */
+
+}
+
+.cybersec{
+  margin: 0px 0px 50px 0px;
+  /* position: absolute;
+  left: 38.5%; */
+}
+
+.other-certifications{
+  margin: 0px 0px 50px 0px;
+
+  /* right: 7%;
+  position: absolute; */
+}
+
+.skills{
+  margin: auto;
+}
+
+.skill-pic{
+  /* display: inline-block; */
+  float: left;
+  margin-right: 30px;
+  /* margin-bottom: 100px; */
+  width: 10%;
+}
+
+.btn{
+  margin: 10px 20px;
+}
+
+hr{
+  border-style: dotted none none none;
+  border-color: teal;
+  border-width: 3px;
+  width: 95%;
+}
